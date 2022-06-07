@@ -33,16 +33,16 @@ models:
                 staging:
                         materialized: ephemeral
         vars: 
-                t_campaignStats: 'name of campaignStats table'
-                t_campaign: 'name of campaign table'
-                t_ads: 'name of ads table'
-                t_adStats: 'name of adStats table`'
-                t_campaignConv: 'name of campaignConversionStats table'
-                t_adGroupStats: 'name of adGroupStats table'
-                t_adGroup: 'name of adGroup table'
-                t_adGroupConv: 'name of adGroupConversions table'
-                convName1: 'name of first conversion'
-                convName2: 'name of second conversion'
-                convName3: 'name of third conversion'
+                t_campaignStats: '`data-analytics-265916.google_ads.p_CampaignStats_1322269447`'
+                t_campaign: '`data-analytics-265916.google_ads.p_Campaign_1322269447r`'
+                t_ads: '`data-analytics-265916.google_ads.p_Ad_1322269447`'
+                t_adStats: '`data-analytics-265916.google_ads.p_AdBasicStats_1322269447`'
+                t_campaignConv: '`data-analytics-265916.google_ads.p_CampaignConversionStats_1322269447`'
+                t_adGroupStats: '`data-analytics-265916.google_ads.p_AdGroupStats_1322269447`'
+                t_adGroup: '`data-analytics-265916.google_ads.p_AdGroup_1322269447`'
+                t_adGroupConv: '`data-analytics-265916.google_ads.p_AdGroup_1322269447`'
+                convName1: '"name of first conversion"'
+                convName2: '"name of second conversion"'
+                convName3: '"name of third conversion"'
                 
   
